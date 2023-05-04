@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan8&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshvardhan80&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan80" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@harshsi70387177" target="blank"><img src="https://img.shields.io/twitter/follow/@harshsi70387177?logo=twitter&style=for-the-badge" alt="@harshsi70387177" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hv9828378@gmail.com**
 
-- ⚡ Fun fact **I am funny guy 😁**
+- ⚡ Fun fact **I am funny guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhan8&show_icons=true&locale=en&layout=compact" alt="harshvardhan8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvardhan8&show_icons=true&locale=en" alt="Harshvardhan80" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan80&show_icons=true&locale=en" alt="harshvardhan80" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan80&" alt="Harshvardhan80" /></p>

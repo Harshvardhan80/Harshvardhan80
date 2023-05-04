@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hv9828378@gmail.com**
 
-- ⚡ Fun fact **I am funny guy**
+- ⚡ Fun fact **I am funny guy 🤣 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
